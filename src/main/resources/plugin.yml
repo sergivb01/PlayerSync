@@ -1,0 +1,6 @@
+name: PlayerSync
+version: ${project.version}
+main: dev.sergivos.playersync.PlayerSync
+load: STARTUP
+description: Player sync between servers
+website: https://sergivos.dev
